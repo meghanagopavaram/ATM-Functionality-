@@ -1,0 +1,7 @@
+
+def main():
+   # Creating accounts
+   accounts = []
+   for i in range(1000, 9999):
+       account = Account(i, 0)
+       accounts.append(account)
