@@ -1,5 +1,5 @@
 # ATM Back End Development-
-ATM macine functionality
+ATM machine functionality
 
 
 the source code provides the following results 
