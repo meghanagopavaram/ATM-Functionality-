@@ -106,12 +106,12 @@ class Account:
                print("Transaction number: ", random.randint(10000, 1000000))
                print("Current Interest Rate: ", accountObj.annualInterestRate)
                print("Monthly Interest Rate: ", accountObj.annualInterestRate / 12)
-               print("Thanks for choosing us as your bank")
+               print("Thanks for choosing us ")
                exit()
  
            # Any other choice
            else:
-               print("nThat's an invalid choice.")
+               print("nThat's an invalid ")
  
 # Main function
 main()
